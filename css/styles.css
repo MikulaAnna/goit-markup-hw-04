@@ -159,8 +159,7 @@ main {
   fill: #f4f4fd;
 }
 .social__link:hover,
-.social__link:focus
- {
+.social__link:focus {
   background-color: #404bbf;
 }
 
@@ -313,7 +312,7 @@ main {
 }
 .portfolio__item {
   width: calc((100% - 48px) / 3);
-    transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .portfolio__info {
@@ -330,7 +329,7 @@ main {
 .portfolio__overlay {
   padding: 40px 32px;
   background-color: #4d5ae5;
-  color: #fff;
+  color: #f4f4fd;
   position: absolute;
   top: 0;
   left: 0;
